@@ -6,5 +6,4 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/Sukhani13/weather-app/blob/master/Images/FinalScreen.png" width="250" height="500">
   <br><br>
-  <p>API from openweathermap</p>
-  <p>When running this app, use API key from <a href="https://openweathermap.org/current" target=_blank>here</a></p>
+  <p>When developing this app,you can use API  from <a href="https://openweathermap.org/current" target=_blank>here</a></p>
