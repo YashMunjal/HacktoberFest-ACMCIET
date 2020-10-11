@@ -1,7 +1,7 @@
 # food_recipe_app
 
 # Android Sample
-<img src="sample_image/android_1.jpg" height="400em" /> <img
+<img src="https://github.com/shainsingh89/hello_food_new/blob/master/sample_image/android_1.jpg" height="400em" /> <img
 src="sample_image/android_2.jpg" height="400em" /> <img
 src="sample_image/android_3.jpg" height="400em" />
 
