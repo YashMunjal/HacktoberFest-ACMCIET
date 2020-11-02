@@ -10,7 +10,7 @@ string = "This is an example. Return the nth occurrence of example in this examp
 find_nth_occurrence("example", string, 1) == 11
 find_nth_occurrence("example", string, 2) == 49
 find_nth_occurrence("example", string, 3) == 65
-find_nth_occurrence("example", string, 4) == -1
+find_nth_occurrence("example", string, 4) == -1 
 ````
 Multiple occurrences of a substring are allowed to overlap, e.g.
 ````
